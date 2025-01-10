@@ -50,7 +50,7 @@ git config --global user.email "tusharpamnani1@example.com"
    Link your local repository to a remote one.
 
    ```bash
-   git remote add origin https://github.com/tusharpamnani/Git-Cheatsheet.git
+   git remote add origin https://github.com/user/project-name.git
    ```
 
    Example:
